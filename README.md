@@ -80,8 +80,7 @@ alt="h" height="30" width="40" /></a>
 ### 🐍 Contribution Snake
 
 <picture>
- https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake.svg
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lokeshwanhere/lokeshwanhere/blob/main/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyamahalle/shreyamahalle/master/assets/github-contribution-grid-snake.svg">
 </picture>

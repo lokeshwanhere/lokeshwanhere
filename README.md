@@ -6,7 +6,7 @@ Hi 👋, I'm Lokesh Wanhere
 
 I'm an SAP ABAP Developer with over 2 years of experience in designing, developing, and optimizing custom solutions in SAP ERP systems. My focus is on writing clean, efficient ABAP code and delivering high-quality technical solutions that support complex business processes.
  
-<img align="right" alt="Coding" width="500" src="https://github.com/lokeshwanhere/kodtodya/blob/main/programmer-transparent.png">
+<img align="right" alt="Coding" width="500" src="https://github.com/lokeshwanhere/lokeshwanhere/blob/main/programmer-transparent.png">
 
 <h3> About Me 👋</h3>
 <table border="0px">

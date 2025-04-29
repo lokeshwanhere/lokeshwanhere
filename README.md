@@ -1,4 +1,5 @@
-![logo](https://github.com/shreyamahalle/shreyamahalle/blob/main/Banner..png)
+![logo](https://github.com/lokeshwanhere/lokeshwanhere/blob/main/lokesh.png)
+
 Hi 👋, I'm Lokesh Wanhere
 
 

@@ -5,6 +5,17 @@ Hi 👋, I'm Lokesh Wanhere
 <h3 align="center">SAP ABAP Developer</h3>
 
 I'm an SAP ABAP Developer with over 2 years of experience in designing, developing, and optimizing custom solutions in SAP ERP systems. My focus is on writing clean, efficient ABAP code and delivering high-quality technical solutions that support complex business processes.
+ 💼 What I Do
+- Develop and enhance custom reports, smart forms, ALV grids, and BAPIs.
+
+- Work with Module Pool Programming, Enhancements (User Exits, BADI, Implicit/Explicit), Data Dictionary objects, SMARTFORMS, 
+  ADOBEFORMS.
+
+- Experience with SAP MM, and HR modules from a technical perspective.
+
+- Familiar with ABAP on HANA and performance tuning techniques.
+
+- Exploring ABAP Git and modern development practices using Git version control.
  
 <img align="right" alt="Coding" width="500" src="https://github.com/lokeshwanhere/lokeshwanhere/blob/main/programmer-transparent.png">
 

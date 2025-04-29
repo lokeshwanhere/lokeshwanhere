@@ -1,6 +1,6 @@
 Hi 👋, I'm Lokesh Wanhere
 
-![logo](https://github.com/lokeshwanhere/lokeshwanhere/blob/main/Banner..png)
+
 <h1 align="center">Hi 👋, I'm Lokesh Wanhere</h1>
 <h3 align="center">SAP ABAP Developer</h3>
 

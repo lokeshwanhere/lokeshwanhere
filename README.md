@@ -1,8 +1,5 @@
 ![logo](https://github.com/lokeshwanhere/lokeshwanhere/blob/main/lokesh.png)
 
-Hi 👋, I'm Lokesh Wanhere
-
-
 <h1 align="center">Hi 👋, I'm Lokesh Wanhere</h1>
 <h3 align="center">SAP ABAP Developer</h3>
 

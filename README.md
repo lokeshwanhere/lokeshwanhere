@@ -19,7 +19,7 @@ I'm an SAP ABAP Developer with over 2 years of experience in designing, developi
  - 📫 How to reach me https://github.com/lokeshwanhere
  - 📫 How to reach me **Lokeshwanhere28@gmail.com**
  
-   <td align="right"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
+   <td align="right"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" 
    width="80%" height="30%"/></td>
    </tr>
    </table>

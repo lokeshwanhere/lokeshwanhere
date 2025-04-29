@@ -14,7 +14,6 @@ I'm an SAP ABAP Developer with over 2 years of experience in designing, developi
 - Familiar with ABAP on HANA and performance tuning techniques.
 - Exploring ABAP Git and modern development practices using Git version control.
  
-<img align="right" alt="Coding" width="500" src="https://github.com/lokeshwanhere/lokeshwanhere/blob/main/programmer-transparent.png">
 
 <h3> About Me 👋</h3>
 <table border="0px">

@@ -1,8 +1,8 @@
-## Hi there 👋
+Hi 👋, I'm Lokesh Wanhere
 
-![logo](https://github.com/shreyamahalle/shreyamahalle/blob/main/Banner..png)
-<h1 align="center">Hi 👋, I'm Shreya Mahalle</h1>
-<h3 align="center">Full Stack Developer </h3>
+![logo](https://github.com/lokeshwanhere/lokeshwanhere/blob/main/Banner..png)
+<h1 align="center">Hi 👋, I'm Lokesh Wanhere</h1>
+<h3 align="center">SAP ABAP Developer</h3>
 
 I’m a passionate Software Development Engineer with a strong interest in solving complex challenges related to Large-Scale Distributed Systems. As a fresher, I am eager to apply my foundational knowledge and skills to real-world projects, focusing on areas like Distributed Systems, Real-Time Data Streaming, and Low-Latency System Design.
 

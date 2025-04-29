@@ -77,5 +77,14 @@ alt="h" height="30" width="40" /></a>
 | ------------- | ------------- |
 
 
+### 🐍 Contribution Snake
+
+<picture>
+ https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake.svg
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shreyamahalle/shreyamahalle/blob/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyamahalle/shreyamahalle/master/assets/github-contribution-grid-snake.svg">
+</picture>
+
 ## GitHub Activity Graph
 [![agreya's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshwanhere&custom_title=lokeshwanhere%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/lokeshwanhere)
